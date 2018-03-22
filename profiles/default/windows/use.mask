@@ -1,0 +1,3 @@
+# Mask extraneous elibc/kernel combinations
+-kernel_Winnt
+kernel_linux

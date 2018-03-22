@@ -1,0 +1,2 @@
+# Unmask mingw-w64-specific variables
+-elibc_mingw
