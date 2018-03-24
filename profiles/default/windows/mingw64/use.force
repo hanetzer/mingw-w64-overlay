@@ -1,0 +1,3 @@
+# Force mingw-w64-specific variables
+elibc_mingw
+kernel_Winnt
