@@ -1,3 +1,4 @@
 # Mask extraneous elibc/kernel combinations
+elibc_glibc
 -kernel_Winnt
 kernel_linux
